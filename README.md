@@ -93,6 +93,4 @@ The API supports the following endpoints for managing User resources:
 
 
 
-## License
 
-*(Optional section for license information.)*
